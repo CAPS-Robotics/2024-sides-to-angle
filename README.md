@@ -65,3 +65,5 @@ for i in range(17):
 ```
 
 equation `y = -255.5*x+350.7`
+x -> side ratios
+y -> angle
